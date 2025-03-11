@@ -1,0 +1,53 @@
+.abc{
+border: 1px solid black;
+width: 300px;
+padding: 20px;
+background-color: powderblue;
+
+}
+
+button{
+height: 30px;
+width: 80px;
+background-color: rgb(41, 243, 41);
+}
+
+@media only screen and (max-width:720px){
+  .abc{
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+    background-color: powderblue;
+    
+  }
+  
+  button{
+    height: 30px;
+    width: 80px;
+    background-color: rgb(41, 243, 41);
+  }
+  
+ 
+}
+
+@media only screen and (min-width:720px){
+  .abc{
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+    background-color: powderblue;
+    
+  }
+  
+  button{
+    height: 30px;
+    width: 80px;
+    background-color: rgb(41, 243, 41);
+  }
+  .container{
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  
+}
