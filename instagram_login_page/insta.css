@@ -1,0 +1,91 @@
+.insta{
+  width: 320px;
+  border:1px solid lightgray;
+  padding: 20px;
+  margin-left: 570px;
+  margin-top: 10px;
+}
+input{
+  width:250px;
+  padding: 10px;
+  border:1px solid lightgray;
+  border-radius: 3px;
+  margin-left: 25px;
+}
+h1{
+  margin-left: 80px;
+  font-weight: 400;
+  font-size: 40px;
+  font-family: "Pattaya", sans-serif;
+}
+.Login_btn{
+  width:270px;
+  padding:7px;
+  border-radius: 5px;
+  border:none;
+  background-color: #4CB5F9;
+  color:white;
+  font-weight: 700;
+  margin-left: 25px;
+}
+fieldset{
+  border-left:none;
+  border-right:none;
+  border-bottom: none;
+  width: 240px;
+  border-top:1px solid lightgray;
+  margin-left: 27px;
+}
+.forgot{
+  margin-left: 110px;
+}
+a{
+  text-decoration: none;
+}
+.withfb{
+  margin-left: 90px;
+  font-weight: 450;
+  font-size: 14px;
+  color:#4CB5F9;
+  font-family: "PT Serif", serif;
+}
+img{
+  margin-left: 656px;
+  margin-top: -300px;
+  margin-bottom: 71px;
+}
+.password{
+  margin-top: 8px;
+}
+.account{
+  border:1px solid lightgray;
+  width: 350px;
+  margin-left: 570px;
+  margin-top: -10px;
+  padding: 6px;
+  font-weight: 200;
+}
+p{
+  margin-left: 70px;
+}
+.google_play{
+  margin-left: 620px;
+  margin-top: 53px;
+}
+.microsoft{
+  margin-left: 760px;
+  margin-top: -150px;
+  margin-bottom: 90px;
+}
+.get_app{
+  margin-left:720px;
+  margin-top: -170px;
+}
+.signup{
+  color:#4CB5F9
+}
+.forgot{
+  color: rgb(51, 49, 49);
+  font-size: 14px;
+  font-weight: 200;
+}
